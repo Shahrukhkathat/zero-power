@@ -1,0 +1,7 @@
+{
+  "name": "PromptCraft AI",
+  "description": "An AI-powered suite for prompt engineering and content generation. Transform brief ideas into highly effective prompts for any large language model, and generate content directly.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
